@@ -43,14 +43,19 @@ a. Cleaning and Transformation
 Columns: 36 Rows: 1470
 
 
-## BELOW IS THE DATASET BEFORE CLEANING 1
+## BELOW IS THE DATASET BEFORE CLEANING 
+
+![ibm2](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/9b555638-0fea-42d0-99d0-941a3c78da2f)
 
 
+![ibm3](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/ad49e9a2-6efa-4583-ad6a-f0821ed117ba)
 
-
+![ibm4](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/9da42be0-8e66-4bfc-bd4f-e9eb05172e8f)
+![ibm5](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/fa96e3f6-20b0-45b6-9962-5eb8e2e945a7)
 
 ## REMOVING COLUMNS THAT I DONT WANT TO USE FOR THE ANALYSIS
 
+![ibm6](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/e7357ec3-f85a-4d07-b7e8-431625b20bf2)
 
 ## DATA TRANSFORMATION
 Some columns “Education” contains numbers (1–5) only.I replaced the numbers with their true values. Then, change datatype to “Text” with the help of conditional column.
@@ -61,6 +66,7 @@ Created a conditional column and replace all numerical values with the appropria
 Click on “Add Column”, Select “Conditional Column”, type in the new column name (Educational Level) and define the new values for the new columns.
 I added some columns like performance status, education level etc with help of conditional column by Following the same steps i took to creating condition column for the “Educational Level” column and create for the columns listed above. 
 
+![ibm7](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/f9232dca-8cb0-4602-b601-ff8d81e07b7b)
 
 
 ## Closing ans loading
@@ -70,17 +76,20 @@ AFTER THE WHOLE CLEANING PROCESS, I CLOSED AND LOAD THE DATA BACK TO EXCEL FOR M
 ## DATA MODELING  AND ANALYSIS USING PIVOT TABLE
 From the pivot table I generated all the necessary KPI like
 
-# Total employee
-# Active employee
-# Inactive employee(ATTRITION)
-# Attrition rate
-# Retention rate etc.
-# Also the reasons why employees leave the organization with the help of charts and graph where gotten from this pivot table analysis as shown below
+## Total employee
+## Active employee
+## Inactive employee(ATTRITION)
+## Retention rate etc.
+## Also the reasons why employees leave the organization with the help of charts and graph where gotten from this pivot table analysis as shown below
+![ibm11](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/477ba552-a210-4654-9d2b-a1d844bd1a70)
+![ibm13](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/06649f59-900b-4b0d-b0e8-09ba8516082c)
+![ibm10](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/252311ae-85fb-4bef-8a5a-8121555a126e)
+![ibm12](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/4c331aea-3adf-48aa-a25f-22f8a9f1a1c2)
 
-### VISUALS AND DASHBOARD
+## VISUALS AND DASHBOARD
+![HR NEW DASH](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/33647940-0ddd-4991-80bf-f226b51b12bc)
 
 
-DASHBOARD VISUALIZATION
 ### INSIGHTS:
 After the whole analysis, visualization creation ,and reports to track the attrition key performance indicator :
 Employee count =1470

@@ -94,7 +94,7 @@ From the pivot table I generated all the necessary KPI like
 ## REDUCING ATTRITION RATE  TO 2% AND INCREASING RETENTION RATE TO 98%
 ![ATTRITION REDUCED](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/fa90abde-644d-4d28-87f3-6970a67ca7a3)
 By increasing employees salary and removing overtime will help to reduce attrition rate to 2%..Overtime can be replaced with shift work.
-
+[link](https://1drv.ms/x/c/0635e6a846394b35/EQnj7h0k0w5CjqmOQEq7XusBvNxWE4GTj9mBNL-WxMNZ_g?e=GGqBJw)
 ## RECOMENDATIONS
 ## Comprehensive Exit Interviews:
 Conduct thorough exit interviews with departing employees to understand the reasons behind their decision to leave. Use this information to identify patterns and areas for improvement within the organization.

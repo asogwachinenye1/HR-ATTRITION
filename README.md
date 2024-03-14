@@ -131,4 +131,3 @@ Implement wellness programs that promote physical, mental, and emotional well-be
 
 ## Recognition and Rewards:
 Recognize and reward employees for their contributions and achievements. This could be through formal recognition programs, bonuses, promotions, or other forms of appreciation.
-

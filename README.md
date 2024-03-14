@@ -87,12 +87,13 @@ From the pivot table I generated all the necessary KPI like
 ![ibm10](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/252311ae-85fb-4bef-8a5a-8121555a126e)
 ![ibm12](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/4c331aea-3adf-48aa-a25f-22f8a9f1a1c2)
 
-## VISUALS AND DASHBOARD
+## VISUALS AND DASHBOARD INSIGHT
 ![HR NEW DASH](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/33647940-0ddd-4991-80bf-f226b51b12bc)
 [view dashboard link](https://1drv.ms/x/c/0635e6a846394b35/EQnj7h0k0w5CjqmOQEq7XusBvNxWE4GTj9mBNL-WxMNZ_g?e=zXAg2E)
 
-### INSIGHTS:
-
+## REDUCING ATTRITION RATE  TO 2% AND INCREASING RETENTION RATE TO 95%
+![ATTRITION REDUCED](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/fa90abde-644d-4d28-87f3-6970a67ca7a3)
+By increasing employees salary and removing overtime will help to reduce attrition rate to 2%..Overtime can be replaced with shift work.
 
 ## RECOMENDATIONS
 ## Comprehensive Exit Interviews:

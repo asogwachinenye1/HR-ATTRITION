@@ -12,7 +12,8 @@ The goal of the HR Attrition Analysis is to provide actionable insights that ena
 ## IMPLEMENTATION OUTLINE
 
 ## Analytics process:
-The tool I will use for this case study is MS Excel 2021. The data analytics process will follow the PMAVD (Prepare, Model, Analyze, Visualize and Dashboard) process.
+The tool I will use for this case study is MS Excel 2021. [download](hppts//microsoft.com)
+The data analytics process will follow the PMAVD (Prepare, Model, Analyze, Visualize and Dashboard) process.
 ## Data Source: 
 # Kaggle 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
@@ -88,7 +89,7 @@ From the pivot table I generated all the necessary KPI like
 
 ## VISUALS AND DASHBOARD
 ![HR NEW DASH](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/33647940-0ddd-4991-80bf-f226b51b12bc)
-
+[view dashboard link](https://1drv.ms/x/c/0635e6a846394b35/EQnj7h0k0w5CjqmOQEq7XusBvNxWE4GTj9mBNL-WxMNZ_g?e=zXAg2E)
 
 ### INSIGHTS:
 

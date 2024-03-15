@@ -88,6 +88,19 @@ From the pivot table I generated all the necessary KPI like
 ![ibm12](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/4c331aea-3adf-48aa-a25f-22f8a9f1a1c2)
 
 ## VISUALS AND DASHBOARD INSIGHT
+from the analysis attrition rate vary across different categories such gender, age, marital status, overtime, work life balance, job level, income level, job satisfaction, job involvement and distance from home.
+
+## Analysis:
+
+total employee:1470
+
+current employee:1233
+
+ex-employee:237
+
+attrition rate:16%
+
+retention rate:84%
 ![HR NEW DASH](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/33647940-0ddd-4991-80bf-f226b51b12bc)
 [view dashboard link](https://1drv.ms/x/c/0635e6a846394b35/EQnj7h0k0w5CjqmOQEq7XusBvNxWE4GTj9mBNL-WxMNZ_g?e=zXAg2E)
 

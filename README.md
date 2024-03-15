@@ -101,6 +101,27 @@ ex-employee:237
 attrition rate:16%
 
 retention rate:84%
+
+### Gender:
+The attrition rate for females is 15%, while for males, it's 10%. This indicates that there may be factors influencing attrition differently based on gender.
+
+Marital Status: Employees who are single have a lower attrition rate (14%) compared to those who are married (26%) or divorced (26%). This suggests that marital status could be a contributing factor to attrition.
+
+### Overtime:
+There's a higher attrition rate (15%) among employees who work overtime compared to those who don't (10%). This indicates a possible correlation between overtime work and attrition.
+
+### Job Level:
+Entry-level employees have the highest attrition rate (26%), followed by mid-level (18%) and junior-level (10%) employees. Senior-level employees have the lowest attrition rate (17%). This suggests that there may be different factors influencing attrition at various job levels.
+
+### Department: 
+HR has the highest attrition rate (19%), followed by R&D (14%). This indicates that attrition varies across different departments within the organization.
+
+### Job Satisfaction: 
+Employees with low job satisfaction have a higher attrition rate (5%) compared to those with medium (21%) or high (Hich) satisfaction levels. This highlights the importance of job satisfaction in employee retention.
+
+### Years of Experience: 
+Employees with very high years of experience have the highest attrition rate (24%). This is surprising and may warrant further investigation into why experienced employees are leaving at a higher rate.
+
 ![HR NEW DASH](https://github.com/asogwachinenye1/HR-ATTRITION/assets/161091047/33647940-0ddd-4991-80bf-f226b51b12bc)
 [view dashboard link](https://1drv.ms/x/c/0635e6a846394b35/EQnj7h0k0w5CjqmOQEq7XusBvNxWE4GTj9mBNL-WxMNZ_g?e=zXAg2E)
 
